@@ -6,5 +6,10 @@
 
 ## police
 
+## politics
+
+## capitalists
+* http://panamapapers.sueddeutsche.de/
+
 ## facists
 * https://nazileaks.blackblogs.org
