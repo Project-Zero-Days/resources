@@ -2,6 +2,7 @@
 
 ## Hardware
 * RTL-SDR
+* LimeSDR
 * hackRF
 * bladeRF
 * rad1o
