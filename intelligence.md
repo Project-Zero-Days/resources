@@ -22,3 +22,6 @@
 ### Software
 
 * https://github.com/trustedsec/social-engineer-toolkit
+
+## misc
+* https://github.com/domi007/silentSMS
