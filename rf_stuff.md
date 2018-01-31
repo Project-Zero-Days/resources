@@ -1,13 +1,27 @@
 # Radio Frequency Stuff / RFSEC
 
 ## Hardware
-* RTL-SDR
-* LimeSDR
-* hackRF
-* bladeRF
-* rad1o
+* RTL-SDR https://www.rtl-sdr.com/
+* LimeSDR https://myriadrf.org/projects/limesdr/
+* hackRF https://greatscottgadgets.com/hackrf/
+* bladeRF https://www.nuand.com/
+* rad1o https://rad1o.badge.events.ccc.de
 
 ## Software
+
+### GnuRadio & other Spectrum Analyzers
+* https://github.com/khaytsus/gqrx-scan
+* http://git.kali.org/gitweb/?p=packages/gr-scan.git;a=summary
+* https://github.com/ptrkrysik/gr-gsm
+* https://github.com/mossmann/qspectrumanalyzer
+* https://github.com/tresacton/dspectrumgui
+
+### Live OS
+* https://wiki.gnuradio.org/index.php/GNU_Radio_Live_SDR_Environment
+* https://www.rtl-sdr.com/rtl-sdrhackrf-live-dvd/
+* https://www.rtl-sdr.com/new-linux-livedvd-supports-rtl-sdr-hackrf/
+* http://www.pentoo.ch/
+* https://www.kali.org/
 
 ### Wifi/Bluetooth
 * https://github.com/ghostop14/sparrow-wifi
@@ -16,9 +30,19 @@
 * https://github.com/Oros42/IMSI-catcher
 * https://github.com/rxseger/LTE-Cell-Scanner
 * https://opensource.srlabs.de/projects/mobile-network-assessment-tools/wiki/CatcherCatcher
+* https://github.com/osqzss/gps-sdr-sim
 
 ### Bugs
 * https://github.com/eldraco/Salamandra
+
+### Android
+* https://github.com/demantz/RFAnalyzer (hackRF)
+* https://github.com/rad1o/RFAnalyzer (rad1o)
+* https://play.google.com/store/apps/details?id=net.wigle.wigleandroid
+
+### Web
+
+* https://github.com/ddcc/d3-waterfall
 
 ## Jammer
 
@@ -40,6 +64,7 @@
 ### How to´s
 * https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/
 * https://z4ziggy.wordpress.com/2015/05/17/sniffing-gsm-traffic-with-hackrf/
+* https://www.rtl-sdr.com/scanning-spectrum-8ghz-per-second-new-hackrf-update/
 
 ### misc
 * http://www.nsaplayset.org
