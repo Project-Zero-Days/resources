@@ -53,6 +53,11 @@
 
 ### Databases
 * https://www.sigidwiki.com/wiki/Signal_Identification_Guide
+* https://opencellid.org/ 
+* https://wigle.net/
+* http://emf3.bundesnetzagentur.de/karte/
+
+
 
 ### Talks & Slides
 * https://media.ccc.de/v/gpn11-10-gsm
