@@ -26,6 +26,7 @@
 ## surveillance
 * https://kamba4.crux.uberspace.de
 * http://cctvmap.binarybase.org/
+* http://sniffmap.telcomap.org
 
 # science / nature
 * http://contrailscience.com/map
